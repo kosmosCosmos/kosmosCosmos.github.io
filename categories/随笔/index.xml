@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on KISS SIKI</title>
+    <link>https://kosmosCosmos.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on KISS SIKI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kosmosCosmos.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于爬虫的碎碎念</title>
+      <link>https://kosmosCosmos.github.io/2016/10/something-about-spyider/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosmosCosmos.github.io/2016/10/something-about-spyider/</guid>
+      <description>&lt;p&gt;关于爬虫的一些事.说说自己对爬虫这个事物的看法和自己当初为什么会走上这条路.同时也讲讲自己这一路上经历了什么，吃过什么亏，掉过什么坑，怎么努力的最后又有什么收获。权当是个故事，看官就当作日记来看就好了.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

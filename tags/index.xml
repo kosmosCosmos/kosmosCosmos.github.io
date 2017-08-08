@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on KISS SIKI</title>
+    <link>https://kosmosCosmos.github.io/tags/</link>
+    <description>Recent content in Tags on KISS SIKI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://kosmosCosmos.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>心理活动</title>
+      <link>https://kosmosCosmos.github.io/tags/%E5%BF%83%E7%90%86%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosmosCosmos.github.io/tags/%E5%BF%83%E7%90%86%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爬虫</title>
+      <link>https://kosmosCosmos.github.io/tags/%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kosmosCosmos.github.io/tags/%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
